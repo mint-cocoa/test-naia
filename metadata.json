@@ -1,0 +1,6 @@
+{
+  "name": "NAIA Studio UI",
+  "description": "Modern web frontend for NAIA image generation application featuring complex modular panels, prompt engineering, and image viewing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
